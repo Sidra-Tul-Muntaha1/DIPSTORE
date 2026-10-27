@@ -1,4 +1,4 @@
-<img width="254" height="538" alt="Screenshot 2026-10-27 173726" src="https://github.com/user-attachments/assets/e22b8213-fa8d-406e-b9b1-9cc6654e55da" /># 🛍️ DIPSTORE — Fashion E-Commerce App
+# 🛍️ DIPSTORE — Fashion E-Commerce App
 
 <p align="center">
   <strong>A modern fashion shopping experience built with Flutter and Firebase.</strong>
