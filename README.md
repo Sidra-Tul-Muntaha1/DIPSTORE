@@ -56,7 +56,7 @@ The application brings together essential shopping features in one place, with a
 | Sign In | Registration |
 
 | <img width="257" height="542" alt="Screenshot 2026-10-27 173745" src="https://github.com/user-attachments/assets/0870f1ea-200f-4bf9-8ff2-e8d2637fa3d8" />
- | <img width="254" height="538" alt="Screenshot 2026-10-27 173726" src="https://github.com/user-attachments/assets/e87e6e9c-8cc1-4cb8-b99b-92064b65edf5" />|
+| <img width="254" height="538" alt="Screenshot 2026-10-27 173726" src="https://github.com/user-attachments/assets/e87e6e9c-8cc1-4cb8-b99b-92064b65edf5" />|
 
 ## ⚙️ Getting Started
 
